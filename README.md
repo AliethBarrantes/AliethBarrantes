@@ -7,7 +7,7 @@
   align="right" 
 />
 
-<h1 align="left">Hi! I'm <code>&lt;Cami Peña&gt;</code></h1>
+<h1 align="left">Hi! I'm <code>&lt;Camila Peña Barrantes&gt;</code></h1>
 
 <p align="left">
   I'm a <strong>Business Informatics student</strong> at the <strong>University of Costa Rica (UCR)</strong>.  
